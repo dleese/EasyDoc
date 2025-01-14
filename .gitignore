@@ -1,0 +1,5 @@
+# ignore unwanted files
+*~
+.DS_Store
+
+# add whatever you need to ignore here
