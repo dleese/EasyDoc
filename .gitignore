@@ -3,3 +3,8 @@
 .DS_Store
 
 # add whatever you need to ignore here
+/doc
+
+# Added by cargo
+/target
+
